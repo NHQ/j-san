@@ -1,0 +1,12 @@
+{
+	"global" : {
+		"/path":{
+			"host":"xxx",
+	        "port":8000,
+	        "url":"xxx",
+	        "type":"xxx",
+			"method":"xxx"
+		},
+		"addresses" : []
+	}
+}
