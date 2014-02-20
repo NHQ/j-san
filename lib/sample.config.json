@@ -7,6 +7,6 @@
 	        "type":"xxx",
 			"method":"xxx"
 		},
-		"addresses" : []
+		"addresses" : [1, 2, {"what": 6}, 4, 6]
 	}
 }
